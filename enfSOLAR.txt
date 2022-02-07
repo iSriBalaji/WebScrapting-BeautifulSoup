@@ -1,0 +1,367 @@
+<!doctype html><html lang='en'  >
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                <title>7E Future Energy Pvt. Ltd. | Solar System Installers | India</title>
+        <meta name="keywords" content="7E Future Energy Pvt. Ltd.">    <meta name="description" content="Company profile for installer 7E Future Energy Pvt. Ltd. - showing the company&#039;s contact details and types of installation undertaken.">
+    <meta name="Author" content="ENF Ltd.">
+    <meta property="og:title" content="ENF Ltd." />
+    <meta property="og:url" content="/7e-future-energy" />
+    <meta name="renderer" content="webkit">
+    <meta name="referrer" content="always">     
+            <link href="https://www.enfsolar.com/7e-future-energy" rel="canonical">
+    <link href="https://www.enfsolar.com/7e-future-energy?html.parser?html.parser" hreflang="en" rel="alternate"><link href="https://www.enf.com.cn/7e-future-energy?html.parser?html.parser" hreflang="zh" rel="alternate"><link href="https://jp.enfsolar.com/7e-future-energy?html.parser?html.parser" hreflang="ja" rel="alternate"><link href="https://kr.enfsolar.com/7e-future-energy?html.parser?html.parser" hreflang="ko" rel="alternate"><link href="https://ar.enfsolar.com/7e-future-energy?html.parser?html.parser" hreflang="ar" rel="alternate"><link href="https://fr.enfsolar.com/7e-future-energy?html.parser?html.parser" hreflang="fr" rel="alternate"><link href="https://es.enfsolar.com/7e-future-energy?html.parser?html.parser" hreflang="es" rel="alternate"><link href="https://de.enfsolar.com/7e-future-energy?html.parser?html.parser" hreflang="de" rel="alternate"><link href="https://it.enfsolar.com/7e-future-energy?html.parser?html.parser" hreflang="it" rel="alternate">    <link rel="apple-touch-icon" sizes="57x57" href="https://cdn.enfsolar.com/Common/images/apple/enf57.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="https://cdn.enfsolar.com/Common/images/apple/enf72.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="https://cdn.enfsolar.com/Common/images/apple/enf114.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="https://cdn.enfsolar.com/Common/images/apple/enf144.png" />
+    <link rel="shortcut icon" href="/favicon.ico?v=1" />
+
+    <link rel='stylesheet' href='https://cdn.enfsolar.com/css/svelte.css?v=67e3dff8dd3'>
+
+    <link rel='stylesheet' href="https://cdn.enfsolar.com/wax/mf.d3571d178.css">
+    
+        <link rel='stylesheet' href="https://cdn.enfsolar.com/wax/all.b57c02c4f.css">    <link rel='stylesheet' href="https://cdn.enfsolar.com/wax/solar.e8aee129d.css">
+        <style>
+#cate-list{border:0;background-color: inherit;box-shadow: none;display: flex;overflow-x: auto;}
+#cate-list li.cate-box{margin-bottom:0;padding:0;border:0;min-width: 180px;}
+#cate-list li.cate-box a{margin:0;padding:0;border:0;background-color: #eae8e8;padding-left:16px;line-height: 48px;}
+#cate-list li.cate-box.active a{background-color: #699bda;margin-top:0;height: 100%;}
+#cate-list li.cate-box .type_title{color:#222;}
+#cate-list li.cate-box.active .type_title{color:white;}
+.company-detail .tab-pane .enf-section {margin:0}
+@media screen and (max-width:970px) {
+    .enf-company-profile .tab-pane .enf-section { width: 100%;}
+    header .enf-nav .enf-nav-brand-logo-new {font-size: 16px !important;}
+}
+</style>
+
+    <link rel='stylesheet' href="https://cdn.enfsolar.com/wax/mf_end.63ba0f500.css">
+
+            <script src="/js/trans.js"></script>
+    
+    <!--[if IE]>        <link rel='stylesheet' href='/css/ie.min.css'>
+
+        <script src='/Common/js/placeholders.min.js'></script>
+    <![endif]-->
+    <!--[if lt IE 9]>
+        <link rel='stylesheet' href='/css/oldIE.min.css'>
+
+        <script src='/bower_components/html5shiv/dist/html5shiv.min.js'></script>
+        <script src='/bower_components/respond/dest/respond.min.js'></script>
+    <![endif]-->
+
+        <link rel="stylesheet" href="https://cdn.enfsolar.com/wax/master-en.68b329da9.css">
+
+    
+                        
+                <script src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script><script type='text/javascript'>window.googletag = window.googletag || {cmd: []};googletag.cmd.push(function() {googletag.defineSlot('/1001885/Database-profiles-bottom-728-90', [940, 90], 'div-gpt-ad-1421911989189-0').addService(googletag.pubads()).setTargeting('lang','en').setTargeting('category', 'installer').setTargeting('profiles', 'installer').setTargeting('installer', '_profile');googletag.pubads().enableSingleRequest();googletag.enableServices();});</script>
+                <script async src="https://www.googletagmanager.com/gtag/js?id=UA-15983029-2"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-15983029-2', {'linker': { 'domains': ['enfsolar.com', 'enf.com.cn'] }});</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5H8JZKK');</script><script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"25021268"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
+
+                    </head>
+
+
+<body>
+    <div id="enf-banner-slot-msg" class="alert alert-warning" style="margin-bottom:0px;display:none;">
+    <div class="container clearfix" style="padding-left:22px;">
+        &quot;Our adverts are very targeted (inverter manufacturer advert on inverter category etc.) – how about disabling your ad blocker on ENF?&quot;
+    </div>
+</div>
+    <div class="cookie-policy-banner" id="cookie-policy-banner">
+	<div class="container">
+		<table>
+			<tr>
+				<td>
+					<span class="bulb"></span>
+				</td>
+				<td>
+					By using the ENF website without adjusting your cookies settings, you agree to our use of cookies as described in our <a href="/policy" style="color: #fecb33;" target="_blank"><u>cookie and data policy</u></a>.
+				</td>
+				<td>
+					<span class="fa fa-times" onclick="close_cookie_message_banner()"></span>
+				</td>
+			</tr>
+		</table>
+	</div>
+</div>
+            <header><div class="enf-nav"><div class="container"><a class="enf-nav-brand" href="/" title="ENF Solar" target="_self"><span class="enf-nav-brand-logo">ENF Solar</span></a><div class="enf-nav-langs"><span><span class="glyphicon glyphicon-globe" aria-hidden="true"></span> Language:</span><ul><li><a class="enf-nav-langs-flag enf-nav-langs-flag-en" title="English" target="_self">English</a></li><li><a class="enf-nav-langs-flag enf-nav-langs-flag-zh" title="中文" href="https://www.enf.com.cn/7e-future-energy?html.parser" target="_self">中文</a></li><li><a class="enf-nav-langs-flag enf-nav-langs-flag-ja" title="日本語" href="https://jp.enfsolar.com/7e-future-energy?html.parser" target="_self">日本語</a></li><li><a class="enf-nav-langs-flag enf-nav-langs-flag-ko" title="한국어" href="https://kr.enfsolar.com/7e-future-energy?html.parser" target="_self">한국어</a></li><li><a class="enf-nav-langs-flag enf-nav-langs-flag-ar" title="العربية" href="https://ar.enfsolar.com/7e-future-energy?html.parser" target="_self">العربية</a></li><li><a class="enf-nav-langs-flag enf-nav-langs-flag-fr" title="Français" href="https://fr.enfsolar.com/7e-future-energy?html.parser" target="_self">Français</a></li><li><a class="enf-nav-langs-flag enf-nav-langs-flag-es" title="Español" href="https://es.enfsolar.com/7e-future-energy?html.parser" target="_self">Español</a></li><li><a class="enf-nav-langs-flag enf-nav-langs-flag-de" title="Deutsch" href="https://de.enfsolar.com/7e-future-energy?html.parser" target="_self">Deutsch</a></li><li><a class="enf-nav-langs-flag enf-nav-langs-flag-it" title="Italiano" href="https://it.enfsolar.com/7e-future-energy?html.parser" target="_self">Italiano</a></li></ul></div><div style="font-weight:bold;color:#fff;font-size:15px;text-shadow:1px 1px 2px #395e88;width:60%" class=" pull-right text-align-right">Solar Trade Platform and Directory of Solar Companies</div></div></div><nav class="enf-navbar-new enf-navbar-new-en"><div class="container"><div class="clearfix"><ul class="nav navbar-nav navbar-nav-left pull-left"><li class="pull-left " style="margin-left:0;"><a href="/" target="_self" class="fa fa-home fa-2x" style="font-weight:normal;"></a></li><li class="pull-left dropdown active"><a href="javascript:void 0;" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">Company Directory
+                                                            (<span>51,600</span>) <span style="width:5px;display:inline-block"></span><span class="fa fa-caret-down"></span></a><span style="display:block;height:2px;background-color:transparent;"></span><div class="dropdown-menu dropdown-menu-cd"><div class="pull-left"><a href="/directory/panel"><span class="pull-left dropdown-menu-icon-cd-panel"></span><span class="pull-left">Solar Panels</span></a><a href="/directory/component"><span class="pull-left dropdown-menu-icon-cd-components"></span><span class="pull-left">Solar Components</span></a><a href="/directory/material"><span class="pull-left dropdown-menu-icon-cd-material"></span><span class="pull-left">Solar Materials</span></a><a href="/directory/equipment"><span class="pull-left dropdown-menu-icon-cd-equipment"></span><span class="pull-left">Production Equipment</span></a></div><div class="center pull-left"></div><div class= "pull-left"><a href="/directory/seller"><span class="pull-left dropdown-menu-icon-cd-seller"></span><span class="pull-left">Sellers</span></a><a href="/directory/installer"><span class="pull-left dropdown-menu-icon-cd-installer"></span><span class="pull-left">Solar System Installers</span></a><a href="/directory/application"><span class="pull-left dropdown-menu-icon-cd-application"></span><span class="pull-left">Solar Applications</span></a><a href="/directory/service"><span class="pull-left dropdown-menu-icon-cd-service"></span><span class="pull-left">Solar Services</span></a></div></div></li><li class="pull-left dropdown "><a href="javascript:void 0;" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">Product Directory
+                                                            (<span>78,800</span>) <span style="width:5px;display:inline-block"></span><span class="fa fa-caret-down"></span></a><span style="display:block;height:2px;background-color:transparent;"></span><div class="dropdown-menu dropdown-menu-pd"><div class="pull-left"><a href="/pv/solar-system"><span class="pull-left dropdown-menu-icon-pd-solar_system"></span><span class="pull-left">Solar Systems</span></a><a href="/pv/panel"><span class="pull-left dropdown-menu-icon-pd-panel"></span><span class="pull-left">Solar Panels</span></a><a href="/pv/inverter"><span class="pull-left dropdown-menu-icon-pd-inverter"></span><span class="pull-left">Solar Inverters</span></a><a href="/pv/mounting-system"><span class="pull-left dropdown-menu-icon-pd-mounting_system"></span><span class="pull-left">Mounting Systems</span></a><a href="/pv/charge-controller"><span class="pull-left dropdown-menu-icon-pd-charge_controller"></span><span class="pull-left">Charge Controller</span></a></div><div class="center pull-left"></div><div class="pull-left"><a href="/pv/storage-system"><span class="pull-left dropdown-menu-icon-pd-storage_system"></span><span class="pull-left">Storage Systems</span></a><a href="/pv/cell"><span class="pull-left dropdown-menu-icon-pd-cell"></span><span class="pull-left">Solar Cells</span></a><a href="/pv/eva"><span class="pull-left dropdown-menu-icon-pd-eva"></span><span class="pull-left">EVA</span></a><a href="/pv/backsheet"><span class="pull-left dropdown-menu-icon-pd-backsheet"></span><span class="pull-left">Backsheets</span></a></div></div></li><li class="pull-left dropdown open-left "><a href="javascript:void 0;" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">Advertising <span style="width:5px;display:inline-block"></span><span class="fa fa-caret-down"></span></a><span style="display:block;height:2px;background-color:transparent;"></span><div class="dropdown-menu dropdown-menu-ad"><div class="pull-left"><a href="/advertising/company"><span class="pull-left dropdown-menu-icon-ad-cd"></span><span class="pull-left">Company Directory</span></a><a href="/advertising/product"><span class="pull-left dropdown-menu-icon-ad-pd"></span><span class="pull-left">Product Directory</span></a><a href="/advertising/newsletter"><span class="pull-left dropdown-menu-icon-ad-newsletter"></span><span class="pull-left">Newsletter</span></a><a href="/about"><span class="pull-left dropdown-menu-icon-pv-about_enf"></span><span class="pull-left">About ENF</span></a></div><div class="center pull-left"></div><div class="pull-left"><a href="/industry-directory"><span class="pull-left dropdown-menu-icon-pv-industry_directory"></span><span class="pull-left">Excel Database</span></a><a href="/advertising/seller"><span class="pull-left dropdown-menu-icon-ad-seller"></span><span class="pull-left">Local Seller</span></a><a href="/advertising/assessed"><span class="pull-left dropdown-menu-icon-ad-assessed"></span><span class="pull-left">Assessed Supplier</span></a><a href="/contact/"><span class="pull-left dropdown-menu-icon-pv-contact_enf"></span><span class="pull-left">Contact ENF</span></a></div></div></li></ul><ul class="nav navbar-nav navbar-right pull-right"><li class='no_login'><a href="/member/login" target="_self">Log In</a></li><li class="enf-navbar-vertical-divider"></li><li class='no_login' style="margin-right:0;"><a href="/member/register" target="_self">Join Free</a></li></ul></div></div></nav></header>
+        
+    <div class="container">
+        <div class="enf-content">
+                            
+    <div class="enf-company-profile merging-company-profile " itemscope itemtype="http://schema.org/Corporation">
+                <table class="top-dfp" style="margin-top:-2px;margin-bottom:1px;">
+    <tr>
+        <td height="90" align="center">
+            <!-- Database-profiles-bottom-728-90 -->
+            <div id='div-gpt-ad-1421911989189-0' style='width:940px; height:90px;box-shadow: 0 0 1px #d0d0d0;'>
+                        <script type='text/javascript'>
+            googletag.display('div-gpt-ad-1421911989189-0');
+            </script>
+                        </div>
+        </td>
+    </tr>
+</table>
+                <ol class="breadcrumb enf-breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a itemprop="item" href="/directory/installer">
+            <span itemprop="name">
+                <span class="glyphicon glyphicon-home"></span>
+                Solar System Installers
+            </span>
+        </a>
+        <meta itemprop='position' content='1' />
+    </li>
+            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="active">
+            <span itemprop="item">
+                <span itemprop="name">
+                    7E Future Energy
+                </span>
+            </span>
+            <meta itemprop='position' content='2' />
+        </li>
+    </ol>
+                <div class="enf-company-profile-info clearfix">
+    <div class="enf-company-profile-info-img pull-left enf-center-img">
+        <span class="enf-helper"></span><img itemprop="logo" src="https://cdn.enfsolar.com/ID/logo/5e8d38af0140d.jpg?v=1" alt="7E Future Energy Pvt. Ltd.">
+    </div>
+    <div class="enf-company-profile-info-main pull-left">
+        <h1 class="blue-title" itemprop="name">
+            7E Future Energy Pvt. Ltd.
+        </h1>
+        <ul class="list-inline clearfix">
+                                
+                    
+                            
+        </ul>
+        <div class="enf-company-profile-info-main-spec position-relative">
+                        <table>
+            <tr>
+                <td class="icon">
+                    <span class="glyphicon glyphicon-map-marker"></span>
+                </td>
+                <td itemprop="address"                 >
+                                            B-202, Circle P, Prahaladhnagar, S. G. Highway, Ahmedabad, 380015, Gujarat
+                                    </td>
+            </tr>
+        </table>
+    
+                        <table>
+            <tr>
+                <td class="icon">
+                    <span class="glyphicon glyphicon-earphone"></span>
+                </td>
+                <td itemprop="telephone"  class="ar:number-direction"                 >
+                                            <a href='tel:+91 79 65255777'>+91 79 65255777</a>
+                                    </td>
+            </tr>
+        </table>
+    
+                                                                <table>
+            <tr>
+                <td class="icon">
+                    <span class="fa fa-wifi"></span>
+                </td>
+                <td                  >
+                                            <a itemprop="url" onclick="fire_event('WebsiteClickFromCompanyProfile', 123456)" href="http://7efe.com" target="_blank" title="7efe.com">
+                            7efe.com
+                        </a>
+                                    </td>
+            </tr>
+        </table>
+    
+                        <table>
+            <tr>
+                <td class="icon">
+                    <span class="glyphicon glyphicon-globe"></span>
+                </td>
+                <td                  >
+                                            India <img class="enf-flag" src="https://cdn.enfsolar.com/Res/flag/India.png" alt="India.png">                                    </td>
+            </tr>
+        </table>
+    
+            <span class='enf-chat-api enf-chat-api-123456' data-id='123456'></span>
+            
+
+
+                            <p style="margin-top:10px;opacity:0.75;padding:5px;">
+                    Email note:  <span class='glyphicon glyphicon-question-sign enf-tooltip hover' aria-hidden='true' data-container='body' data-content='Note: To reduce unwanted emails to solar installers we don’t publish their email contact on our profile pages. You may visit their website to get their email address, or you can purchase our &lt;a href=&quot;/industry-directory&quot; target=&quot;_blank&quot;&gt;database of solar companies&lt;/a&gt; which includes solar installer email addresses.' data-placement='top' data-html=true></span>
+                </p>
+                    </div>
+    </div>
+    <div class="enf-company-profile-info-side pull-right clearfix">
+                    <img src="https://cdn.enfsolar.com/map_img/19d79c469725aefc6ac7973c9a72b1cc_s.png" style="width: 100%;">
+            </div>
+</div>
+                
+
+                
+
+        
+                
+
+<div class="enf-section">
+    <div class="company-detail" style="padding-top:20px;">
+                <div class="cate-content tab-content">
+                                                                                    <div class="tab-pane fade" id="installer">
+                <div class="enf-section">
+                    <h2>
+                        Business Details
+                    </h2>
+                    <div class="enf-section-body">
+                            
+    
+    
+                            
+    
+    
+                            
+    
+            <div class="row enf-row enf-table-row">
+            <div class="col-xs-2 enf-section-body-title">
+                On-Grid / Off-Grid
+            </div>
+            <div class="col-xs-10 enf-section-body-content blue">
+                                    On-grid, Off-grid
+                            </div>
+        </div>
+    
+                            
+    
+            <div class="row enf-row enf-table-row">
+            <div class="col-xs-2 enf-section-body-title">
+                Installation size
+            </div>
+            <div class="col-xs-10 enf-section-body-content blue">
+                                    (S)maller Installations, 1(M)Wp+ Installations
+                            </div>
+        </div>
+    
+                            
+    
+            <div class="row enf-row enf-table-row">
+            <div class="col-xs-2 enf-section-body-title">
+                Other Services
+            </div>
+            <div class="col-xs-10 enf-section-body-content blue">
+                                    Evaluation, Design, Monitoring
+                            </div>
+        </div>
+    
+                            
+    
+            <div class="row enf-row enf-table-row">
+            <div class="col-xs-2 enf-section-body-title">
+                Operating Area
+            </div>
+            <div class="col-xs-10 enf-section-body-content blue">
+                                                             India
+                                                                <br>
+                                                                                                            </div>
+        </div>
+    
+                            
+    
+    
+                            
+    
+    
+                                    
+                    </div>
+                </div>
+
+                
+
+                                    
+
+                
+                                                                    
+                                                                </div>
+                                            </div>
+    </div>
+</div>
+
+                
+
+
+                
+                
+                <div class="enf-section enf-section-update-area">
+    <div class="enf-section-body">
+        <div class="row enf-row enf-table-row">
+            <div class="table-cell bg-blue text-white font-bold align-middle px-6 py-3" style="font-size: 14px;">
+                Last Update
+            </div>
+            <div class="col-xs-10 enf-section-body-content">
+                19 May 2021
+                                    <a  onclick="fire_event('OtherClickUpdateAboveInfo', 123456)" href="/member/login" class="rounded hover-no-underline px-6 leading-7 text-white focus:text-white hover:text-white bg-blue hover-shadow float-right ar:float-left unseen md:inline-block " rel='nofollow'>
+                        Update Above Information
+                    </a>
+                            </div>
+        </div>
+    </div>
+</div>
+                
+                            <div class="enf-floating-side">
+                            </div>
+            </div>
+                                  </div>
+    </div>
+    
+    
+                         <footer>
+    <div class="py-11 bg-gray-dark text-white">
+        <div class="w-full flex justify-between flex-col md:flex-row items-center md:items-start" style="max-width: 940px;margin:0 auto;">
+                            <p class="leading-normal px-1 md:px-0 mb-6 md:my-2 text-center md:text-left w-full md:w-1/2" >
+                    ENF Solar is a definitive directory of solar companies and products. Information is checked, categorised and connected.
+                </p>
+                        <a class="text-white hover:text-white hover-no-underline"  href="https://www.enfrecycling.com" >
+                <button class="hover-shadow my-2 bg-green rounded focus:outline-none flex items-center px-6">
+                    <span class="mr-4" style="width:18px;height:32px;background-image: url(https://www.enf.com.cn/Homepage/images/enf_logo_sun.png);background-size: auto 22px;background-repeat: no-repeat;background-position: 0 50%;"></span>
+                    <div style="line-height:32px;">
+                                                    ENF Recycling
+                                            </div>
+                </button>
+            </a>
+        </div>
+    </div>
+    <div class="py-6 bg-blue-dark text-center" style="font-size:12px;">
+        <div class="mb-1" style="color: #d6d6d6;">
+            <a style="color: #d6d6d6;" href="/terms">Terms of Use</a>
+            |
+            <a style="color: #d6d6d6;" href="/policy">Cookie and Data Policy</a>
+            |
+            <a style="color: #d6d6d6;" href="/contact">Contact ENF</a>
+                    <span class="xl:hidden">|</span>    
+        <a style="color: #d6d6d6;" class="xl:hidden" href="/newsletter">Newsletter</a>
+        <span class="md:hidden">|</span>
+        <a style="color: #d6d6d6;" class="md:hidden" onclick="viewVersion('desktop')">Desktop</a>
+            </div>
+        <div class="text-white" style="line-height:17px;">
+            © 2005-2021 ENF Ltd. All Rights Reserved
+                    </div>
+    </div>
+</footer>            
+    <script src="https://cdn.enfsolar.com/wax/app.b2b588b4f.js"></script>
+    <script src="https://cdn.enfsolar.com/wax/libs.325163032.js"></script>
+    <script src="https://cdn.enfsolar.com/wax/all.695e1b64a.js"></script>
+
+    <script src='https://cdn.enfsolar.com/svelte/AppPublic.js?v=aa10f4c44bf' defer></script>
+
+    
+    <script>
+    $(document).ready(function() {
+        //
+        var activeTabType = 'installer';
+        if (activeTabType) {
+            $(".cate-box-" + activeTabType).addClass('active');
+            $("#" + activeTabType).addClass('active in');
+        } else {
+            $(".cate-box:first-child").addClass('active');
+            $(".cate-content .tab-pane:first-child").addClass('active in');
+        }
+    });
+</script>
+</body>
+</html>

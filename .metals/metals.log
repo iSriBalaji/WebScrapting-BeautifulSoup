@@ -1,0 +1,15 @@
+[0m2021.07.22 13:17:03 INFO  Started: Metals version 0.10.5 in workspace 'C:\Users\Sri Balaji\Desktop\Web Scraping' for client Visual Studio Code 1.58.2.[0m
+[0m2021.07.22 13:17:06 INFO  time: initialize in 2.69s[0m
+[0m2021.07.22 13:17:08 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.22 13:17:08 WARN  no build tool detected in workspace 'C:\Users\Sri Balaji\Desktop\Web Scraping'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.22 14:49:37 INFO  shutting down Metals[0m
+[0m2021.07.22 22:44:12 INFO  Started: Metals version 0.10.5 in workspace 'C:\Users\Sri Balaji\Desktop\Web Scraping' for client Visual Studio Code 1.58.2.[0m
+[0m2021.07.22 22:44:17 INFO  time: initialize in 4.82s[0m
+[0m2021.07.22 22:44:20 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.22 22:44:20 WARN  no build tool detected in workspace 'C:\Users\Sri Balaji\Desktop\Web Scraping'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.23 00:09:28 INFO  shutting down Metals[0m
+[0m2021.07.23 00:49:43 INFO  Started: Metals version 0.10.5 in workspace 'C:\Users\Sri Balaji\Desktop\Web Scraping' for client Visual Studio Code 1.58.2.[0m
+[0m2021.07.23 00:49:45 INFO  time: initialize in 1.92s[0m
+[0m2021.07.23 00:49:50 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.23 00:49:50 WARN  no build tool detected in workspace 'C:\Users\Sri Balaji\Desktop\Web Scraping'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.23 22:27:57 INFO  shutting down Metals[0m
